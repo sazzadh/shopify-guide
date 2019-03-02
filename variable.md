@@ -13,5 +13,7 @@
 
 ### Output a Variable
 ```liquid
+{% raw %}
 {{ my_string }}
+{% endraw %}
 ```
